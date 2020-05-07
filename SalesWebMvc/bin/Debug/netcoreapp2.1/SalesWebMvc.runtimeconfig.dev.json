@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gdrag\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gdrag\\.nuget\\packages"
+    ]
+  }
+}
