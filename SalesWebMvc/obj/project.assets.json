@@ -12627,11 +12627,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gdrag\\Desktop\\C#\\Seção 17\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectUniqueName": "C:\\Users\\gdrag\\Desktop\\C#\\Seção 17\\Web\\SalesWebMvc\\SalesWebMvc.csproj",
       "projectName": "SalesWebMvc",
-      "projectPath": "C:\\Users\\gdrag\\Desktop\\C#\\Seção 17\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+      "projectPath": "C:\\Users\\gdrag\\Desktop\\C#\\Seção 17\\Web\\SalesWebMvc\\SalesWebMvc.csproj",
       "packagesPath": "C:\\Users\\gdrag\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gdrag\\Desktop\\C#\\Seção 17\\SalesWebMvc\\SalesWebMvc\\obj\\",
+      "outputPath": "C:\\Users\\gdrag\\Desktop\\C#\\Seção 17\\Web\\SalesWebMvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gdrag\\AppData\\Roaming\\NuGet\\NuGet.Config",
